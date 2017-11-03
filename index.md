@@ -1,12 +1,2 @@
-sdf
-sadfa
-sdfasdf
-as
-dfa
-dfa
-sdf
-asdf
-asdf
-as
-fsa
-fsd
+title : Welcome to the Octocat's homepage!
+description: Fell free to bookmark this to kkep an eye on my project updates
